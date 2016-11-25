@@ -1,0 +1,1 @@
+export {KeyValuePipe} from './src/Pipes/KeyValue';
