@@ -1,0 +1,7 @@
+http://blog.angular-university.io/how-to-create-an-angular-2-library-and-how-to-consume-it-jspm-vs-webpack/
+https://angular.io/docs/ts/latest/guide/structural-directives.html
+https://medium.com/@OCombe/how-to-publish-a-library-for-angular-2-on-npm-5f48cdabf435#.za329fiow
+https://teropa.info/blog/2016/03/06/writing-an-angular-2-template-directive.html
+https://webcake.co/object-properties-in-angular-2s-ngfor/
+https://angular-2-training-book.rangle.io/handout/advanced-angular/directives/creating_a_structural_directive.html
+https://www.bennadel.com/blog/3076-creating-an-index-loop-structural-directive-in-angular-2-beta-14.htm

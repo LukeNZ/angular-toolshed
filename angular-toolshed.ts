@@ -1,3 +1,3 @@
-export {KeyValuePipe} from './src/Pipes/KeyValue';
+export {ToIterablePipe} from './src/Pipes/ToIterable';
 
 export {AbstractService} from './src/Services/AbstractService';
