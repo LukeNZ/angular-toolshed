@@ -1,6 +1,6 @@
 {
   "name": "angular-toolshed",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Common reusable Angular 2 components",
   "scripts": {
     "prepublish": "tsc"
